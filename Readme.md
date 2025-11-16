@@ -1,13 +1,22 @@
 ## Oncology Clinical Research Multi-Agent System
-A comprehensive workshop project demonstrating advanced AI agent development using Databricks, MLflow, and LangGraph for Oncology clinical research data analysis. 
-This system combines structured clinical trial data, document retrieval, and biomedical literature search capabilities through a sophisticated multi-agent architecture.
+This workshop project shows how to build smart AI agents for oncology clinical research using Databricks, MLflow, and LangGraph.
+
+The system brings together:
+
+🧪 Clinical trial data – structured information about trials
+
+📂 Documents – internal files and metadata
+
+📚 Biomedical literature – research papers from sources like PubMed
+
+All of these are connected through a multi-agent setup, where different AI agents handle different tasks and work together to give clear, reliable insights for clinical research.
 
 # 🎯 Overview:
 
 This workshop teaches you how to build a production-ready multi-agent system that can intelligently route queries across different data sources and provide comprehensive clinical research insights. The system orchestrates specialized agents through a supervisor to deliver contextual answers from:
 
-Structured Clinical Data - Querying clinical trial databases with natural language
-Internal Documents - Searching clinical trial documentation and metadata
+Structured Clinical Data - Querying oncology clinical trial databases with natural language
+Internal Documents - Searching oncology clinical trial documentation and metadata
 Biomedical Literature - Accessing PubMed research papers and studies
 
 <img width="562" height="277" alt="image" src="https://github.com/user-attachments/assets/ec91eff7-cc5f-4415-9608-6b6494d8e520" />

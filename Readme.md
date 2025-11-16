@@ -290,3 +290,12 @@ By completing this workshop, you will learn:
 
 5.Evaluate → Assess performance and iterate on improvements
 
+## 👨‍💻 Contributing
+
+Feel free to fork the repository, submit pull requests, or raise issues for improvements!
+
+---
+
+## 📧 Contact
+
+For questions or support, reach out to **Bindusekhar Gorintla** at (gorintla.bindusekhar@gmail.com).
